@@ -1,2 +1,2 @@
-# Hello-World
-Repository will be used to house the Hello World activity 
+# Wyatt Evans
+Just a simple man living in a simple world, just trying to get by.
